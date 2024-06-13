@@ -1,5 +1,0 @@
-train: /content/drive/MyDrive/yolov8/data/train/images
-val: /content/drive/MyDrive/yolov8/data/valid/images
-
-nc: 5
-names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
